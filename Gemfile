@@ -10,6 +10,10 @@ gem 'jquery-rails', '2.2.1'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.2'
 
+## App gems
+gem 'bootstrap-sass', '2.3.2.0'
+gem 'flat-ui-rails'
+
 group :development, :test do
   gem 'sqlite3', '1.3.7'
   gem 'rspec-rails', '2.13.1'
